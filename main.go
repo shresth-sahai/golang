@@ -1,7 +1,7 @@
 package main // entry point 
  
 import "fmt" //formst package print 
-import "strconv"
+
 
 var companyName string="ABC"
 
@@ -81,10 +81,19 @@ func main() { //main function
 
 // fmt.Print(x,y)
 
+// input 
+	// var name string
+	// var age int
+	// fmt.Print("Enter name")
 
+	// fmt.Scan(&name)
+
+	// fmt.Scan(&age)
+	// fmt.Print(name,age)
 
 }
 // func greeting(){
 // 	local:="Hi"
 // 	fmt.Println(local)
 // }
+
