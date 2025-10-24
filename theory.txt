@@ -1,0 +1,9 @@
+
+
+google 
+-> 2009 
+simple , compiled , concurremcy -> goroutines 
+garbage collector 
+static types + msafety 
+
+
